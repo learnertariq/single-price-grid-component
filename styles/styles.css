@@ -37,6 +37,9 @@ h3 {
 
 .container {
   padding: 10px 5%;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
 }
 
 .wrapper {
